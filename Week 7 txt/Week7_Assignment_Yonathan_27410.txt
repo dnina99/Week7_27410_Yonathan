@@ -1,0 +1,6 @@
+Program pertama dapat berjalan dengan baik, kamera dapat memfoto memilih opsi reselect
+atau ok, video pun juga dapat berjalan dengan baik bisa memvideokan lalu di save kemudian
+diplay
+
+Program kedua video dapat dijalan dengan baik, ada kendala di awal tetapi dapat diatasi dengan 
+penambahan manifest, thumnail tidak kelihatan apabila telah melakukan back dari video
